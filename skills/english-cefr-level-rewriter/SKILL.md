@@ -1,6 +1,6 @@
 ---
 name: english-cefr-level-rewriter
-description: Use when rewriting English text to match a target CEFR level — A1 (Beginner) through C2 (Proficiency). Applies when the user wants to simplify or adapt English text for ESL learners, adjust vocabulary and grammar to a specific level, or validate whether a passage is appropriate for a given CEFR stage. Vocabulary data: CEFR-J (Yukio Tono, TUFS) + Octanove Vocabulary Profile, CC BY-SA 4.0.
+description: "Use when rewriting English text to match a target CEFR level — A1 (Beginner) through C2 (Proficiency). Applies when the user wants to simplify or adapt English text for ESL learners, adjust vocabulary and grammar to a specific level, or validate whether a passage is appropriate for a given CEFR stage. Vocabulary data: CEFR-J (Yukio Tono, TUFS) + Octanove Vocabulary Profile, CC BY-SA 4.0."
 ---
 
 # English CEFR Level Rewriter
