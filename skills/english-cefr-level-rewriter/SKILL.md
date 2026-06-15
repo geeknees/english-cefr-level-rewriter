@@ -1,6 +1,6 @@
 ---
 name: english-cefr-level-rewriter
-description: Use when rewriting English text to match a target CEFR level — A1 (Beginner) through C2 (Proficiency). Applies when the user wants to simplify or adapt English text for ESL learners, adjust vocabulary and grammar to a specific level, or validate whether a passage is appropriate for a given CEFR stage. References ESL Lounge vocabulary data and CEFR grammar profiles.
+description: Use when rewriting English text to match a target CEFR level — A1 (Beginner) through C2 (Proficiency). Applies when the user wants to simplify or adapt English text for ESL learners, adjust vocabulary and grammar to a specific level, or validate whether a passage is appropriate for a given CEFR stage. Vocabulary data: CEFR-J (Yukio Tono, TUFS) + Octanove Vocabulary Profile, CC BY-SA 4.0.
 ---
 
 # English CEFR Level Rewriter
@@ -196,3 +196,25 @@ Both scripts exit 0 (no violations) / 1 (violations found).
 - Vocab script uses basic lemmatisation; irregular forms (went, better) may not be resolved
 - Readability script uses heuristics, not a full parser; clause depth is approximate
 - Proper nouns will appear as "unknown" in vocab output — this is expected
+
+---
+
+## Data Sources and Licenses
+
+### Vocabulary data
+
+`resources/vocabulary/cefr_vocabulary.csv` is derived from two datasets, both licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**:
+
+| Dataset | Author | Scope | URL |
+|---|---|---|---|
+| CEFR-J Vocabulary Profile 1.5 | Yukio Tono, Tokyo University of Foreign Studies | A1–B2 | https://github.com/openlanguageprofiles/olp-en-cefrj |
+| Octanove Vocabulary Profile C1/C2 1.0 | Octanove Labs | C1–C2 | https://github.com/openlanguageprofiles/olp-en-cefrj |
+
+If you distribute or adapt this skill, you must:
+1. Credit the authors above.
+2. Link to the CC BY-SA 4.0 license: https://creativecommons.org/licenses/by-sa/4.0/
+3. Release any derivative vocabulary data under the same license.
+
+### Grammar profiles
+
+`resources/grammar/*.md` are original documents authored for this skill and carry no third-party license obligations.
