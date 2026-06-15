@@ -89,26 +89,30 @@ You can also specify parameters explicitly:
 Check that rewritten text contains no out-of-level vocabulary or grammar patterns:
 
 ```bash
-# Install dependencies (first time only)
-pip install -r requirements.txt
-
 # Check vocabulary level
-python3 skills/english-cefr-level-rewriter/scripts/validate_cefr_vocab.py \
+ruby skills/english-cefr-level-rewriter/scripts/validate_cefr_vocab.rb \
   --text "The scientist investigated the phenomenon." \
   --level B1
 
 # Check grammar/readability
-python3 skills/english-cefr-level-rewriter/scripts/validate_cefr_readability.py \
+ruby skills/english-cefr-level-rewriter/scripts/validate_cefr_readability.rb \
   --text "Although it was raining, she decided to go." \
   --level A2
 ```
 
 Both scripts exit `0` (pass) / `1` (violations found), so they work in CI pipelines.
 
+## Running tests
+
+```bash
+gem install rspec   # first time only
+rspec spec/
+```
+
 To regenerate the vocabulary CSV from the upstream open datasets:
 
 ```bash
-python3 skills/english-cefr-level-rewriter/scripts/build_cefr_vocab.py
+ruby skills/english-cefr-level-rewriter/scripts/build_cefr_vocab.rb
 ```
 
 ---
@@ -122,8 +126,7 @@ english-cefr-level-rewriter/
 ├── .codex-plugin/
 │   └── plugin.json                        # Codex plugin metadata
 ├── README.md
-├── requirements.txt
-├── pytest.ini
+├── Gemfile
 └── skills/
     └── english-cefr-level-rewriter/
         ├── SKILL.md                        # Skill definition
@@ -135,9 +138,9 @@ english-cefr-level-rewriter/
         │   └── grammar/
         │       └── A1.md … C2.md           # Grammar profiles per level
         ├── scripts/
-        │   ├── build_cefr_vocab.py         # Regenerate vocabulary CSV from upstream datasets
-        │   ├── validate_cefr_vocab.py      # Vocabulary compliance checker
-        │   └── validate_cefr_readability.py # Grammar/readability checker
+        │   ├── build_cefr_vocab.rb         # Regenerate vocabulary CSV from upstream datasets
+        │   ├── validate_cefr_vocab.rb      # Vocabulary compliance checker
+        │   └── validate_cefr_readability.rb # Grammar/readability checker
         ├── examples/
         │   ├── sample_inputs.md
         │   └── sample_outputs.md

@@ -184,10 +184,10 @@ To programmatically check the rewritten text:
 
 ```bash
 # Check vocabulary
-python3 scripts/validate_cefr_vocab.py --text "..." --level B1
+ruby scripts/validate_cefr_vocab.rb --text "..." --level B1
 
 # Check grammar/readability
-python3 scripts/validate_cefr_readability.py --text "..." --level B1
+ruby scripts/validate_cefr_readability.rb --text "..." --level B1
 ```
 
 Both scripts exit 0 (no violations) / 1 (violations found).
