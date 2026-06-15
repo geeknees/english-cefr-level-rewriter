@@ -1,0 +1,38 @@
+{
+  "name": "english-cefr-level-rewriter",
+  "version": "1.0.0",
+  "description": "Rewrites English text to match a target CEFR proficiency level (A1–C2), with vocabulary and grammar validation scripts",
+  "author": {
+    "name": "geeknees"
+  },
+  "homepage": "https://github.com/geeknees/english-cefr-level-rewriter",
+  "repository": "https://github.com/geeknees/english-cefr-level-rewriter",
+  "license": "MIT",
+  "keywords": [
+    "english",
+    "cefr",
+    "esl",
+    "language-learning",
+    "vocabulary",
+    "rewriting",
+    "education"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "English CEFR Level Rewriter",
+    "shortDescription": "Rewrite English text to a target CEFR level (A1–C2)",
+    "longDescription": "Rewrites English text so a reader at the target CEFR level (A1–C2) can understand it without losing the original meaning. Vocabulary and grammar are adjusted to match the level. Includes validation scripts for vocabulary and readability checking.",
+    "developerName": "geeknees",
+    "category": "Education",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "defaultPrompt": [
+      "Rewrite this text for a B1 reader",
+      "Simplify this to A2 level",
+      "Adapt this article for C1 learners"
+    ],
+    "websiteURL": "https://github.com/geeknees/english-cefr-level-rewriter"
+  }
+}

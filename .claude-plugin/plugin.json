@@ -1,0 +1,19 @@
+{
+  "name": "english-cefr-level-rewriter",
+  "version": "1.0.0",
+  "description": "Rewrites English text to match a target CEFR proficiency level (A1–C2), with vocabulary and grammar validation scripts",
+  "author": {
+    "name": "geeknees"
+  },
+  "repository": "https://github.com/geeknees/english-cefr-level-rewriter",
+  "license": "MIT",
+  "keywords": [
+    "english",
+    "cefr",
+    "esl",
+    "language-learning",
+    "vocabulary",
+    "rewriting",
+    "education"
+  ]
+}
