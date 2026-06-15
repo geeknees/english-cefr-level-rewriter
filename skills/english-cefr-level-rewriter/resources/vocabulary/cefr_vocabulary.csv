@@ -1,0 +1,2239 @@
+word,cefr_level,pos
+actor,A1,noun
+actress,A1,noun
+adult,A1,noun
+artist,A1,noun
+aunt,A1,noun
+baby,A1,noun
+band,A1,noun
+boy,A1,noun
+boyfriend,A1,noun
+brother,A1,noun
+child,A1,noun
+cousin,A1,noun
+customer,A1,noun
+dad,A1,noun
+dancer,A1,noun
+daughter,A1,noun
+doctor,A1,noun
+driver,A1,noun
+family,A1,noun
+farmer,A1,noun
+father,A1,noun
+friend,A1,noun
+girl,A1,noun
+girlfriend,A1,noun
+grandfather,A1,noun
+grandmother,A1,noun
+grandparent,A1,noun
+group,A1,noun
+husband,A1,noun
+man,A1,noun
+member,A1,noun
+model,A1,noun
+mother,A1,noun
+mum,A1,noun
+neighbour,A1,noun
+nurse,A1,noun
+parent,A1,noun
+partner,A1,noun
+people,A1,noun
+person,A1,noun
+player,A1,noun
+police,A1,noun
+policeman,A1,noun
+reader,A1,noun
+scientist,A1,noun
+singer,A1,noun
+sister,A1,noun
+son,A1,noun
+student,A1,noun
+teacher,A1,noun
+team,A1,noun
+teenager,A1,noun
+tourist,A1,noun
+uncle,A1,noun
+visitor,A1,noun
+waiter,A1,noun
+wife,A1,noun
+woman,A1,noun
+worker,A1,noun
+writer,A1,noun
+apple,A1,noun
+banana,A1,noun
+beer,A1,noun
+bread,A1,noun
+breakfast,A1,noun
+butter,A1,noun
+cafe,A1,noun
+cake,A1,noun
+carrot,A1,noun
+cheese,A1,noun
+chicken,A1,noun
+chocolate,A1,noun
+coffee,A1,noun
+cooking,A1,noun
+cream,A1,noun
+cup,A1,noun
+diet,A1,noun
+dinner,A1,noun
+dish,A1,noun
+egg,A1,noun
+fish,A1,noun
+food,A1,noun
+fruit,A1,noun
+ice,A1,noun
+ice cream,A1,noun
+juice,A1,noun
+lunch,A1,noun
+meal,A1,noun
+meat,A1,noun
+menu,A1,noun
+milk,A1,noun
+onion,A1,noun
+orange,A1,noun
+pasta,A1,noun
+pepper,A1,noun
+pizza,A1,noun
+potato,A1,noun
+restaurant,A1,noun
+rice,A1,noun
+salad,A1,noun
+salt,A1,noun
+sandwich,A1,noun
+soup,A1,noun
+sugar,A1,noun
+tea,A1,noun
+tomato,A1,noun
+vegetable,A1,noun
+water,A1,noun
+wine,A1,noun
+arm,A1,noun
+body,A1,noun
+ear,A1,noun
+eye,A1,noun
+face,A1,noun
+foot,A1,noun
+hair,A1,noun
+hand,A1,noun
+head,A1,noun
+health,A1,noun
+hospital,A1,noun
+leg,A1,noun
+mouth,A1,noun
+nose,A1,noun
+shower,A1,noun
+tooth,A1,noun
+to believe,A1,verb
+to decide,A1,verb
+to enjoy,A1,verb
+to feel,A1,verb
+to forget,A1,verb
+to guess,A1,verb
+to hate,A1,verb
+to hope,A1,verb
+to know,A1,verb
+to like,A1,verb
+to love,A1,verb
+to mean,A1,verb
+to miss,A1,verb
+to need,A1,verb
+to remember,A1,verb
+to think,A1,verb
+to understand,A1,verb
+to want,A1,verb
+to answer,A1,verb
+to ask,A1,verb
+to call,A1,verb
+to explain,A1,verb
+to hear,A1,verb
+to introduce,A1,verb
+to laugh,A1,verb
+to listen,A1,verb
+to meet,A1,verb
+to repeat,A1,verb
+to say,A1,verb
+to show,A1,verb
+to speak,A1,verb
+to spell,A1,verb
+to talk,A1,verb
+to teach,A1,verb
+to tell,A1,verb
+to thank,A1,verb
+to write,A1,verb
+to buy,A1,verb
+to clean,A1,verb
+to cook,A1,verb
+to cost,A1,verb
+to drink,A1,verb
+to eat,A1,verb
+to order,A1,verb
+to pay,A1,verb
+to read,A1,verb
+to relax,A1,verb
+to see,A1,verb
+to sing,A1,verb
+to sit,A1,verb
+to sleep,A1,verb
+to spend,A1,verb
+to study,A1,verb
+to visit,A1,verb
+to wake,A1,verb
+to wash,A1,verb
+to watch,A1,verb
+to wear,A1,verb
+to work,A1,verb
+afraid,A1,adjective
+angry,A1,adjective
+bored,A1,adjective
+boring,A1,adjective
+excited,A1,adjective
+exciting,A1,adjective
+happy,A1,adjective
+hungry,A1,adjective
+interested,A1,adjective
+interesting,A1,adjective
+sad,A1,adjective
+sorry,A1,adjective
+thirsty,A1,adjective
+tired,A1,adjective
+beautiful,A1,adjective
+big,A1,adjective
+blonde,A1,adjective
+clean,A1,adjective
+cold,A1,adjective
+cool,A1,adjective
+dark,A1,adjective
+dirty,A1,adjective
+dry,A1,adjective
+fat,A1,adjective
+full,A1,adjective
+hard,A1,adjective
+healthy,A1,adjective
+high,A1,adjective
+hot,A1,adjective
+large,A1,adjective
+little,A1,adjective
+long,A1,adjective
+pretty,A1,adjective
+short,A1,adjective
+sick,A1,adjective
+small,A1,adjective
+strong,A1,adjective
+tall,A1,adjective
+warm,A1,adjective
+young,A1,adjective
+amazing,A1,adjective
+bad,A1,adjective
+best,A1,adjective
+better,A1,adjective
+correct,A1,adjective
+dangerous,A1,adjective
+dear,A1,adjective
+delicious,A1,adjective
+different,A1,adjective
+difficult,A1,adjective
+easy,A1,adjective
+expensive,A1,adjective
+false,A1,adjective
+famous,A1,adjective
+fantastic,A1,adjective
+favourite,A1,adjective
+fine,A1,adjective
+funny,A1,adjective
+good,A1,adjective
+great,A1,adjective
+important,A1,adjective
+nice,A1,adjective
+poor,A1,adjective
+popular,A1,adjective
+possible,A1,adjective
+real,A1,adjective
+rich,A1,adjective
+special,A1,adjective
+terrible,A1,adjective
+true,A1,adjective
+wonderful,A1,adjective
+wrong,A1,adjective
+again,A1,adverb
+ago,A1,adverb
+always,A1,adverb
+ever,A1,adverb
+just,A1,adverb
+later,A1,adverb
+never,A1,adverb
+now,A1,adverb
+o'clock,A1,adverb
+often,A1,adverb
+once,A1,adverb
+sometimes,A1,adverb
+soon,A1,adverb
+then,A1,adverb
+today,A1,adverb
+tomorrow,A1,adverb
+tonight,A1,adverb
+twice,A1,adverb
+usually,A1,adverb
+yesterday,A1,adverb
+away,A1,adverb
+back,A1,adverb
+down,A1,adverb
+downstairs,A1,adverb
+far,A1,adverb
+here,A1,adverb
+there,A1,adverb
+upstairs,A1,adverb
+even,A1,adverb
+only,A1,adverb
+quite,A1,adverb
+really,A1,adverb
+too,A1,adverb
+very,A1,adverb
+also,A1,adverb
+else,A1,adverb
+how,A1,adverb
+maybe,A1,adverb
+not,A1,adverb
+quickly,A1,adverb
+together,A1,adverb
+well,A1,adverb
+why,A1,adverb
+architect,A2,noun
+army,A2,noun
+assistant,A2,noun
+athlete,A2,noun
+audience,A2,noun
+author,A2,noun
+boss,A2,noun
+buddy,A2,noun
+businessman,A2,noun
+celebrity,A2,noun
+character,A2,noun
+chef,A2,noun
+coach,A2,noun
+colleague,A2,noun
+cook,A2,noun
+couple,A2,noun
+dentist,A2,noun
+designer,A2,noun
+detective,A2,noun
+director,A2,noun
+employee,A2,noun
+employer,A2,noun
+engineer,A2,noun
+fan,A2,noun
+guest,A2,noun
+guide,A2,noun
+guy,A2,noun
+hero,A2,noun
+idiot,A2,noun
+instructor,A2,noun
+journalist,A2,noun
+kid,A2,noun
+king,A2,noun
+lady,A2,noun
+lawyer,A2,noun
+leader,A2,noun
+listener,A2,noun
+manager,A2,noun
+musician,A2,noun
+officer,A2,noun
+owner,A2,noun
+painter,A2,noun
+passenger,A2,noun
+patient,A2,noun
+pilot,A2,noun
+pirate,A2,noun
+population,A2,noun
+president,A2,noun
+professor,A2,noun
+queen,A2,noun
+reporter,A2,noun
+researcher,A2,noun
+runner,A2,noun
+secretary,A2,noun
+sir,A2,noun
+soldier,A2,noun
+speaker,A2,noun
+thief,A2,noun
+traveller,A2,noun
+twin,A2,noun
+user,A2,noun
+winner,A2,noun
+ankle,A2,noun
+birth,A2,noun
+blood,A2,noun
+bone,A2,noun
+brain,A2,noun
+death,A2,noun
+drug,A2,noun
+finger,A2,noun
+flu,A2,noun
+headache,A2,noun
+heart,A2,noun
+illness,A2,noun
+injury,A2,noun
+knee,A2,noun
+medicine,A2,noun
+mind,A2,noun
+neck,A2,noun
+pain,A2,noun
+shoulder,A2,noun
+skin,A2,noun
+stomach,A2,noun
+toe,A2,noun
+bean,A2,noun
+beef,A2,noun
+biscuit,A2,noun
+bowl,A2,noun
+can,A2,noun
+chip,A2,noun
+fork,A2,noun
+grape,A2,noun
+jam,A2,noun
+knife,A2,noun
+lemon,A2,noun
+nut,A2,noun
+pear,A2,noun
+plate,A2,noun
+recipe,A2,noun
+sauce,A2,noun
+spoon,A2,noun
+strawberry,A2,noun
+to accept,A2,verb
+to advertise,A2,verb
+to agree,A2,verb
+to argue,A2,verb
+to arrange,A2,verb
+to attend,A2,verb
+to chat,A2,verb
+to communicate,A2,verb
+to complain,A2,verb
+to disagree,A2,verb
+to express,A2,verb
+to greet,A2,verb
+to invite,A2,verb
+to mail,A2,verb
+to mention,A2,verb
+to pronounce,A2,verb
+to publish,A2,verb
+to receive,A2,verb
+to recommend,A2,verb
+to reply,A2,verb
+to report,A2,verb
+to request,A2,verb
+to shout,A2,verb
+to suggest,A2,verb
+to text,A2,verb
+to care,A2,verb
+to consider,A2,verb
+to depend,A2,verb
+to dream,A2,verb
+to expect,A2,verb
+to focus,A2,verb
+to imagine,A2,verb
+to matter,A2,verb
+to mind,A2,verb
+to notice,A2,verb
+to prefer,A2,verb
+to realise,A2,verb
+to recognise,A2,verb
+to seem,A2,verb
+to suppose,A2,verb
+to surprise,A2,verb
+to wish,A2,verb
+to worry,A2,verb
+to appear,A2,verb
+to attack,A2,verb
+to beat,A2,verb
+to blow,A2,verb
+to brush,A2,verb
+to burn,A2,verb
+to catch,A2,verb
+to cross,A2,verb
+to cry,A2,verb
+to cycle,A2,verb
+to drop,A2,verb
+to hide,A2,verb
+to hit,A2,verb
+to hold,A2,verb
+to hurry,A2,verb
+to hurt,A2,verb
+to jump,A2,verb
+to kick,A2,verb
+to kiss,A2,verb
+to knock,A2,verb
+to land,A2,verb
+to lift,A2,verb
+to pack,A2,verb
+to pass,A2,verb
+to pick,A2,verb
+to pull,A2,verb
+to push,A2,verb
+to raise,A2,verb
+to reach,A2,verb
+to ring,A2,verb
+to shake,A2,verb
+to shut,A2,verb
+to ski,A2,verb
+to smell,A2,verb
+to smile,A2,verb
+to step,A2,verb
+to swing,A2,verb
+to taste,A2,verb
+to throw,A2,verb
+to tie,A2,verb
+to touch,A2,verb
+to wave,A2,verb
+to achieve,A2,verb
+to act,A2,verb
+to allow,A2,verb
+to apply,A2,verb
+to book,A2,verb
+to camp,A2,verb
+to celebrate,A2,verb
+to compete,A2,verb
+to earn,A2,verb
+to employ,A2,verb
+to fail,A2,verb
+to film,A2,verb
+to guide,A2,verb
+to lead,A2,verb
+to lend,A2,verb
+to manage,A2,verb
+to mark,A2,verb
+to marry,A2,verb
+to offer,A2,verb
+to organise,A2,verb
+to perform,A2,verb
+to photograph,A2,verb
+to score,A2,verb
+to serve,A2,verb
+to succeed,A2,verb
+asleep,A2,adjective
+comfortable,A2,adjective
+lucky,A2,adjective
+nervous,A2,adjective
+pleased,A2,adjective
+scared,A2,adjective
+surprised,A2,adjective
+unhappy,A2,adjective
+upset,A2,adjective
+worried,A2,adjective
+active,A2,adjective
+careful,A2,adjective
+clever,A2,adjective
+crazy,A2,adjective
+creative,A2,adjective
+helpful,A2,adjective
+intelligent,A2,adjective
+lazy,A2,adjective
+polite,A2,adjective
+rude,A2,adjective
+serious,A2,adjective
+stupid,A2,adjective
+successful,A2,adjective
+attractive,A2,adjective
+bright,A2,adjective
+broken,A2,adjective
+closed,A2,adjective
+crowded,A2,adjective
+curly,A2,adjective
+cute,A2,adjective
+deep,A2,adjective
+empty,A2,adjective
+enormous,A2,adjective
+flat,A2,adjective
+fresh,A2,adjective
+heavy,A2,adjective
+huge,A2,adjective
+light,A2,adjective
+loud,A2,adjective
+lovely,A2,adjective
+narrow,A2,adjective
+noisy,A2,adjective
+soft,A2,adjective
+sweet,A2,adjective
+thick,A2,adjective
+thin,A2,adjective
+weak,A2,adjective
+wet,A2,adjective
+wide,A2,adjective
+wild,A2,adjective
+wooden,A2,adjective
+awful,A2,adjective
+brilliant,A2,adjective
+excellent,A2,adjective
+fair,A2,adjective
+ideal,A2,adjective
+impossible,A2,adjective
+incredible,A2,adjective
+normal,A2,adjective
+ordinary,A2,adjective
+particular,A2,adjective
+scary,A2,adjective
+simple,A2,adjective
+strange,A2,adjective
+surprising,A2,adjective
+typical,A2,adjective
+unusual,A2,adjective
+useful,A2,adjective
+usual,A2,adjective
+already,A2,adverb
+any more,A2,adverb
+finally,A2,adverb
+firstly,A2,adverb
+immediately,A2,adverb
+recently,A2,adverb
+secondly,A2,adverb
+still,A2,adverb
+suddenly,A2,adverb
+yet,A2,adverb
+almost,A2,adverb
+completely,A2,adverb
+enough,A2,adverb
+especially,A2,adverb
+extremely,A2,adverb
+further,A2,adverb
+mostly,A2,adverb
+nearly,A2,adverb
+normally,A2,adverb
+abroad,A2,adverb
+anywhere,A2,adverb
+around,A2,adverb
+everywhere,A2,adverb
+forward,A2,adverb
+inside,A2,adverb
+near,A2,adverb
+nowhere,A2,adverb
+outside,A2,adverb
+somewhere,A2,adverb
+badly,A2,adverb
+carefully,A2,adverb
+clearly,A2,adverb
+correctly,A2,adverb
+differently,A2,adverb
+easily,A2,adverb
+happily,A2,adverb
+loudly,A2,adverb
+quietly,A2,adverb
+sadly,A2,adverb
+slowly,A2,adverb
+actually,A2,adverb
+certainly,A2,adverb
+definitely,A2,adverb
+exactly,A2,adverb
+perhaps,A2,adverb
+anyway,A2,adverb
+fortunately,A2,adverb
+instead,A2,adverb
+rather,A2,adverb
+unfortunately,A2,adverb
+agent,B1,noun
+bride,B1,noun
+candidate,B1,noun
+captain,B1,noun
+champion,B1,noun
+client,B1,noun
+competitor,B1,noun
+editor,B1,noun
+enemy,B1,noun
+gentleman,B1,noun
+ghost,B1,noun
+guard,B1,noun
+host,B1,noun
+immigrant,B1,noun
+infant,B1,noun
+judge,B1,noun
+organiser,B1,noun
+photographer,B1,noun
+poet,B1,noun
+politician,B1,noun
+priest,B1,noun
+prince,B1,noun
+princess,B1,noun
+prisoner,B1,noun
+producer,B1,noun
+relative,B1,noun
+sailor,B1,noun
+servant,B1,noun
+spy,B1,noun
+stranger,B1,noun
+supporter,B1,noun
+victim,B1,noun
+viewer,B1,noun
+volunteer,B1,noun
+youth,B1,noun
+breath,B1,noun
+breathing,B1,noun
+chest,B1,noun
+lip,B1,noun
+muscle,B1,noun
+throat,B1,noun
+tongue,B1,noun
+wrinkle,B1,noun
+accommodation,B1,noun
+border,B1,noun
+campus,B1,noun
+cottage,B1,noun
+countryside,B1,noun
+court,B1,noun
+destination,B1,noun
+entrance,B1,noun
+garage,B1,noun
+kingdom,B1,noun
+laboratory,B1,noun
+location,B1,noun
+mall,B1,noun
+mill,B1,noun
+mine,B1,noun
+neighbourhood,B1,noun
+port,B1,noun
+stadium,B1,noun
+studio,B1,noun
+yard,B1,noun
+alcohol,B1,noun
+battery,B1,noun
+bubble,B1,noun
+cloth,B1,noun
+coal,B1,noun
+copper,B1,noun
+cotton,B1,noun
+diamond,B1,noun
+dirt,B1,noun
+dust,B1,noun
+flour,B1,noun
+fuel,B1,noun
+fur,B1,noun
+grain,B1,noun
+honey,B1,noun
+iron,B1,noun
+leather,B1,noun
+liquid,B1,noun
+mud,B1,noun
+poison,B1,noun
+powder,B1,noun
+sand,B1,noun
+seed,B1,noun
+soil,B1,noun
+string,B1,noun
+tin,B1,noun
+wool,B1,noun
+atmosphere,B1,noun
+bee,B1,noun
+earthquake,B1,noun
+environment,B1,noun
+flood,B1,noun
+hurricane,B1,noun
+layer,B1,noun
+leaf,B1,noun
+spring,B1,noun
+surface,B1,noun
+tail,B1,noun
+wing,B1,noun
+to admire,B1,verb
+to admit,B1,verb
+to advise,B1,verb
+to announce,B1,verb
+to annoy,B1,verb
+to apologise,B1,verb
+to appreciate,B1,verb
+to comment,B1,verb
+to confirm,B1,verb
+to confuse,B1,verb
+to contact,B1,verb
+to convince,B1,verb
+to discuss,B1,verb
+to encourage,B1,verb
+to entertain,B1,verb
+to hint,B1,verb
+to lie,B1,verb
+to persuade,B1,verb
+to protest,B1,verb
+to quote,B1,verb
+to represent,B1,verb
+to state,B1,verb
+to warn,B1,verb
+to yell,B1,verb
+to access,B1,verb
+to attach,B1,verb
+to balance,B1,verb
+to bend,B1,verb
+to bite,B1,verb
+to board,B1,verb
+to breathe,B1,verb
+to burst,B1,verb
+to click,B1,verb
+to cover,B1,verb
+to escape,B1,verb
+to fasten,B1,verb
+to feed,B1,verb
+to flood,B1,verb
+to flow,B1,verb
+to fold,B1,verb
+to freeze,B1,verb
+to hang,B1,verb
+to lay,B1,verb
+to level,B1,verb
+to locate,B1,verb
+to measure,B1,verb
+to pin,B1,verb
+to point,B1,verb
+to pour,B1,verb
+to pump,B1,verb
+to punch,B1,verb
+to roll,B1,verb
+to scan,B1,verb
+to separate,B1,verb
+to set,B1,verb
+to shift,B1,verb
+to shine,B1,verb
+to shoot,B1,verb
+to sink,B1,verb
+to skip,B1,verb
+to slam,B1,verb
+to slap,B1,verb
+to slice,B1,verb
+to spread,B1,verb
+to stick,B1,verb
+to switch,B1,verb
+to weigh,B1,verb
+to concentrate,B1,verb
+to conclude,B1,verb
+to contrast,B1,verb
+to doubt,B1,verb
+to examine,B1,verb
+to highlight,B1,verb
+to ignore,B1,verb
+to intend,B1,verb
+to judge,B1,verb
+to note,B1,verb
+to occur,B1,verb
+to pretend,B1,verb
+to reflect,B1,verb
+to relate,B1,verb
+to remind,B1,verb
+to revise,B1,verb
+to solve,B1,verb
+to spot,B1,verb
+to summarise,B1,verb
+to wonder,B1,verb
+to bake,B1,verb
+to base,B1,verb
+to combine,B1,verb
+to create,B1,verb
+to decorate,B1,verb
+to divide,B1,verb
+to expand,B1,verb
+to file,B1,verb
+to fry,B1,verb
+to iron,B1,verb
+to label,B1,verb
+to limit,B1,verb
+to mix,B1,verb
+to produce,B1,verb
+to sort,B1,verb
+to translate,B1,verb
+to type,B1,verb
+to update,B1,verb
+amazed,B1,adjective
+annoyed,B1,adjective
+annoying,B1,adjective
+brave,B1,adjective
+calm,B1,adjective
+cheerful,B1,adjective
+confident,B1,adjective
+confused,B1,adjective
+disappointed,B1,adjective
+disappointing,B1,adjective
+embarrassed,B1,adjective
+embarrassing,B1,adjective
+frightened,B1,adjective
+frightening,B1,adjective
+glad,B1,adjective
+grateful,B1,adjective
+guilty,B1,adjective
+lonely,B1,adjective
+mad,B1,adjective
+peaceful,B1,adjective
+pessimistic,B1,adjective
+pleasant,B1,adjective
+proud,B1,adjective
+relaxed,B1,adjective
+relaxing,B1,adjective
+romantic,B1,adjective
+shy,B1,adjective
+uncomfortable,B1,adjective
+unpleasant,B1,adjective
+ambitious,B1,adjective
+aware,B1,adjective
+careless,B1,adjective
+competitive,B1,adjective
+cruel,B1,adjective
+determined,B1,adjective
+generous,B1,adjective
+gentle,B1,adjective
+honest,B1,adjective
+ignorant,B1,adjective
+innocent,B1,adjective
+keen,B1,adjective
+kind,B1,adjective
+organised,B1,adjective
+proper,B1,adjective
+qualified,B1,adjective
+reliable,B1,adjective
+responsible,B1,adjective
+sensible,B1,adjective
+silly,B1,adjective
+smart,B1,adjective
+talented,B1,adjective
+aged,B1,adjective
+close,B1,adjective
+coloured,B1,adjective
+covered,B1,adjective
+dressed,B1,adjective
+drunk,B1,adjective
+fixed,B1,adjective
+frozen,B1,adjective
+injured,B1,adjective
+living,B1,adjective
+located,B1,adjective
+medium,B1,adjective
+pale,B1,adjective
+sharp,B1,adjective
+shiny,B1,adjective
+smooth,B1,adjective
+solid,B1,adjective
+spicy,B1,adjective
+tight,B1,adjective
+tiny,B1,adjective
+ugly,B1,adjective
+written,B1,adjective
+academic,B1,adjective
+advanced,B1,adjective
+basic,B1,adjective
+complex,B1,adjective
+convenient,B1,adjective
+definite,B1,adjective
+effective,B1,adjective
+essential,B1,adjective
+expected,B1,adjective
+experienced,B1,adjective
+familiar,B1,adjective
+fascinating,B1,adjective
+fashionable,B1,adjective
+horrible,B1,adjective
+immediate,B1,adjective
+impressive,B1,adjective
+involved,B1,adjective
+latest,B1,adjective
+leading,B1,adjective
+obvious,B1,adjective
+odd,B1,adjective
+original,B1,adjective
+painful,B1,adjective
+powerful,B1,adjective
+practical,B1,adjective
+prepared,B1,adjective
+previous,B1,adjective
+rare,B1,adjective
+related,B1,adjective
+remote,B1,adjective
+repeated,B1,adjective
+rough,B1,adjective
+spoken,B1,adjective
+sudden,B1,adjective
+suitable,B1,adjective
+unfair,B1,adjective
+unlikely,B1,adjective
+unnecessary,B1,adjective
+used,B1,adjective
+valuable,B1,adjective
+various,B1,adjective
+violent,B1,adjective
+worth,B1,adjective
+ahead,B1,adverb
+currently,B1,adverb
+eventually,B1,adverb
+forever,B1,adverb
+meanwhile,B1,adverb
+originally,B1,adverb
+previously,B1,adverb
+frequently,B1,adverb
+hardly,B1,adverb
+rarely,B1,adverb
+regularly,B1,adverb
+typically,B1,adverb
+backwards,B1,adverb
+directly,B1,adverb
+effectively,B1,adverb
+naturally,B1,adverb
+properly,B1,adverb
+seriously,B1,adverb
+similarly,B1,adverb
+simply,B1,adverb
+successfully,B1,adverb
+absolutely,B1,adverb
+equally,B1,adverb
+fairly,B1,adverb
+heavily,B1,adverb
+highly,B1,adverb
+incredibly,B1,adverb
+mainly,B1,adverb
+particularly,B1,adverb
+perfectly,B1,adverb
+slightly,B1,adverb
+strongly,B1,adverb
+totally,B1,adverb
+indeed,B1,adverb
+necessarily,B1,adverb
+obviously,B1,adverb
+possibly,B1,adverb
+probably,B1,adverb
+surely,B1,adverb
+apart,B1,adverb
+indoors,B1,adverb
+outdoors,B1,adverb
+approximately,B1,adverb
+generally,B1,adverb
+however,B1,adverb
+personally,B1,adverb
+specifically,B1,adverb
+administration,B2,noun
+affair,B2,noun
+agency,B2,noun
+agenda,B2,noun
+arms,B2,noun
+barrier,B2,noun
+bias,B2,noun
+bombing,B2,noun
+catastrophe,B2,noun
+chairman,B2,noun
+circumstance,B2,noun
+citizen,B2,noun
+civilization,B2,noun
+commander,B2,noun
+committee,B2,noun
+conflict,B2,noun
+confusion,B2,noun
+conservation,B2,noun
+conspiracy,B2,noun
+controversy,B2,noun
+convention,B2,noun
+corporation,B2,noun
+council,B2,noun
+county,B2,noun
+coverage,B2,noun
+cowboy,B2,noun
+crash,B2,noun
+crew,B2,noun
+crisis,B2,noun
+defence,B2,noun
+defender,B2,noun
+democracy,B2,noun
+demonstration,B2,noun
+disability,B2,noun
+disagreement,B2,noun
+disorder,B2,noun
+district,B2,noun
+diversity,B2,noun
+division,B2,noun
+divorce,B2,noun
+empire,B2,noun
+firefighter,B2,noun
+fool,B2,noun
+freedom,B2,noun
+gang,B2,noun
+gender,B2,noun
+globalisation,B2,noun
+globe,B2,noun
+grant,B2,noun
+housing,B2,noun
+immigration,B2,noun
+independence,B2,noun
+inhabitant,B2,noun
+initiative,B2,noun
+institution,B2,noun
+invasion,B2,noun
+jail,B2,noun
+judgement,B2,noun
+jury,B2,noun
+justice,B2,noun
+labour,B2,noun
+leadership,B2,noun
+league,B2,noun
+lord,B2,noun
+majority,B2,noun
+minister,B2,noun
+minority,B2,noun
+mission,B2,noun
+monument,B2,noun
+negotiation,B2,noun
+offender,B2,noun
+opponent,B2,noun
+opposition,B2,noun
+parliament,B2,noun
+participant,B2,noun
+participation,B2,noun
+partnership,B2,noun
+penalty,B2,noun
+permit,B2,noun
+popularity,B2,noun
+pride,B2,noun
+principle,B2,noun
+priority,B2,noun
+privacy,B2,noun
+proposal,B2,noun
+protection,B2,noun
+protester,B2,noun
+publicity,B2,noun
+racism,B2,noun
+rank,B2,noun
+recognition,B2,noun
+refugee,B2,noun
+registration,B2,noun
+regulation,B2,noun
+relief,B2,noun
+reputation,B2,noun
+resident,B2,noun
+resolution,B2,noun
+restriction,B2,noun
+revolution,B2,noun
+rival,B2,noun
+robbery,B2,noun
+scandal,B2,noun
+sector,B2,noun
+seeker,B2,noun
+settler,B2,noun
+shortage,B2,noun
+slave,B2,noun
+spectator,B2,noun
+stance,B2,noun
+statistic,B2,noun
+status,B2,noun
+strike,B2,noun
+suburb,B2,noun
+suffering,B2,noun
+survival,B2,noun
+survivor,B2,noun
+suspect,B2,noun
+teen,B2,noun
+tension,B2,noun
+terms,B2,noun
+territory,B2,noun
+terror,B2,noun
+terrorism,B2,noun
+terrorist,B2,noun
+theft,B2,noun
+threat,B2,noun
+tragedy,B2,noun
+transition,B2,noun
+trial,B2,noun
+tribe,B2,noun
+troop,B2,noun
+trust,B2,noun
+uncertainty,B2,noun
+unity,B2,noun
+violence,B2,noun
+visa,B2,noun
+voting,B2,noun
+welfare,B2,noun
+widow,B2,noun
+witness,B2,noun
+zone,B2,noun
+to accuse,B2,verb
+to acknowledge,B2,verb
+to address,B2,verb
+to appeal,B2,verb
+to approve,B2,verb
+to assure,B2,verb
+to beg,B2,verb
+to bid,B2,verb
+to blame,B2,verb
+to broadcast,B2,verb
+to cheer,B2,verb
+to cite,B2,verb
+to clarify,B2,verb
+to command,B2,verb
+to confess,B2,verb
+to consult,B2,verb
+to convey,B2,verb
+to criticise,B2,verb
+to dare,B2,verb
+to debate,B2,verb
+to declare,B2,verb
+to demand,B2,verb
+to demonstrate,B2,verb
+to deny,B2,verb
+to emphasise,B2,verb
+to excuse,B2,verb
+to forbid,B2,verb
+to forgive,B2,verb
+to illustrate,B2,verb
+to imply,B2,verb
+to inform,B2,verb
+to insist,B2,verb
+to interrupt,B2,verb
+to justify,B2,verb
+to object,B2,verb
+to outline,B2,verb
+to permit,B2,verb
+to pose,B2,verb
+to praise,B2,verb
+to prohibit,B2,verb
+to prompt,B2,verb
+to propose,B2,verb
+to question,B2,verb
+to regard,B2,verb
+to remark,B2,verb
+to reveal,B2,verb
+to specify,B2,verb
+to speculate,B2,verb
+to swear,B2,verb
+to threaten,B2,verb
+to urge,B2,verb
+to whisper,B2,verb
+to witness,B2,verb
+to analyse,B2,verb
+to anticipate,B2,verb
+to assess,B2,verb
+to assume,B2,verb
+to attempt,B2,verb
+to calculate,B2,verb
+to classify,B2,verb
+to define,B2,verb
+to derive,B2,verb
+to detect,B2,verb
+to determine,B2,verb
+to differ,B2,verb
+to distinguish,B2,verb
+to document,B2,verb
+to evaluate,B2,verb
+to forecast,B2,verb
+to hesitate,B2,verb
+to infer,B2,verb
+to interpret,B2,verb
+to monitor,B2,verb
+to observe,B2,verb
+to perceive,B2,verb
+to rank,B2,verb
+to recall,B2,verb
+to reckon,B2,verb
+to research,B2,verb
+to resolve,B2,verb
+to suspect,B2,verb
+to trace,B2,verb
+to abandon,B2,verb
+to absorb,B2,verb
+to chase,B2,verb
+to chop,B2,verb
+to collapse,B2,verb
+to crack,B2,verb
+to crash,B2,verb
+to curve,B2,verb
+to depart,B2,verb
+to dig,B2,verb
+to dive,B2,verb
+to drag,B2,verb
+to dump,B2,verb
+to erupt,B2,verb
+to extract,B2,verb
+to flash,B2,verb
+to float,B2,verb
+to grab,B2,verb
+to handle,B2,verb
+to lean,B2,verb
+to load,B2,verb
+to lower,B2,verb
+to mount,B2,verb
+to pace,B2,verb
+to pause,B2,verb
+to pile,B2,verb
+to rush,B2,verb
+to scratch,B2,verb
+to scream,B2,verb
+to settle,B2,verb
+to slide,B2,verb
+to slip,B2,verb
+to spill,B2,verb
+to split,B2,verb
+to stare,B2,verb
+to starve,B2,verb
+to stretch,B2,verb
+to strike,B2,verb
+to struggle,B2,verb
+to swallow,B2,verb
+to sweep,B2,verb
+to tap,B2,verb
+to tear,B2,verb
+to track,B2,verb
+to trap,B2,verb
+to wander,B2,verb
+to withdraw,B2,verb
+to wrap,B2,verb
+acceptable,B2,adjective
+accurate,B2,adjective
+adequate,B2,adjective
+amusing,B2,adjective
+appropriate,B2,adjective
+astonishing,B2,adjective
+awkward,B2,adjective
+crucial,B2,adjective
+decent,B2,adjective
+fabulous,B2,adjective
+genuine,B2,adjective
+gorgeous,B2,adjective
+grand,B2,adjective
+hilarious,B2,adjective
+humorous,B2,adjective
+magnificent,B2,adjective
+memorable,B2,adjective
+modest,B2,adjective
+outstanding,B2,adjective
+precious,B2,adjective
+remarkable,B2,adjective
+ridiculous,B2,adjective
+sexy,B2,adjective
+so-called,B2,adjective
+spectacular,B2,adjective
+stunning,B2,adjective
+sufficient,B2,adjective
+super,B2,adjective
+tough,B2,adjective
+unacceptable,B2,adjective
+weird,B2,adjective
+wise,B2,adjective
+anxious,B2,adjective
+ashamed,B2,adjective
+bitter,B2,adjective
+concerned,B2,adjective
+convinced,B2,adjective
+delighted,B2,adjective
+depressed,B2,adjective
+depressing,B2,adjective
+desperate,B2,adjective
+eager,B2,adjective
+emotional,B2,adjective
+enthusiastic,B2,adjective
+fond,B2,adjective
+fortunate,B2,adjective
+frustrated,B2,adjective
+furious,B2,adjective
+impatient,B2,adjective
+impressed,B2,adjective
+miserable,B2,adjective
+moving,B2,adjective
+relieved,B2,adjective
+satisfied,B2,adjective
+sympathetic,B2,adjective
+unfortunate,B2,adjective
+aggressive,B2,adjective
+bold,B2,adjective
+capable,B2,adjective
+casual,B2,adjective
+charming,B2,adjective
+curious,B2,adjective
+dishonest,B2,adjective
+dynamic,B2,adjective
+elegant,B2,adjective
+loyal,B2,adjective
+nasty,B2,adjective
+optimistic,B2,adjective
+passionate,B2,adjective
+sensitive,B2,adjective
+sincere,B2,adjective
+sophisticated,B2,adjective
+strict,B2,adjective
+willing,B2,adjective
+armed,B2,adjective
+athletic,B2,adjective
+bent,B2,adjective
+blind,B2,adjective
+colourful,B2,adjective
+curved,B2,adjective
+disabled,B2,adjective
+exotic,B2,adjective
+folding,B2,adjective
+golden,B2,adjective
+hollow,B2,adjective
+naked,B2,adjective
+neat,B2,adjective
+pointed,B2,adjective
+pregnant,B2,adjective
+raw,B2,adjective
+shallow,B2,adjective
+shaped,B2,adjective
+spare,B2,adjective
+steep,B2,adjective
+sticky,B2,adjective
+stiff,B2,adjective
+tropical,B2,adjective
+vertical,B2,adjective
+absolute,B2,adjective
+bound,B2,adjective
+broad,B2,adjective
+comprehensive,B2,adjective
+considerable,B2,adjective
+constant,B2,adjective
+entire,B2,adjective
+excessive,B2,adjective
+extensive,B2,adjective
+fundamental,B2,adjective
+intense,B2,adjective
+limited,B2,adjective
+massive,B2,adjective
+minor,B2,adjective
+multiple,B2,adjective
+numerous,B2,adjective
+pure,B2,adjective
+rapid,B2,adjective
+severe,B2,adjective
+significant,B2,adjective
+slight,B2,adjective
+thorough,B2,adjective
+ultimate,B2,adjective
+vast,B2,adjective
+altogether,B2,adverb
+barely,B2,adverb
+considerably,B2,adverb
+deeply,B2,adverb
+dramatically,B2,adverb
+entirely,B2,adverb
+essentially,B2,adverb
+even,B2,adverb
+extensively,B2,adverb
+fully,B2,adverb
+fundamentally,B2,adverb
+greatly,B2,adverb
+increasingly,B2,adverb
+largely,B2,adverb
+partly,B2,adverb
+potentially,B2,adverb
+purely,B2,adverb
+relatively,B2,adverb
+remarkably,B2,adverb
+severely,B2,adverb
+significantly,B2,adverb
+somewhat,B2,adverb
+sufficiently,B2,adverb
+terribly,B2,adverb
+truly,B2,adverb
+widely,B2,adverb
+accidentally,B2,adverb
+accurately,B2,adverb
+adequately,B2,adverb
+appropriately,B2,adverb
+basically,B2,adverb
+briefly,B2,adverb
+broadly,B2,adverb
+closely,B2,adverb
+commonly,B2,adverb
+consistently,B2,adverb
+critically,B2,adverb
+deliberately,B2,adverb
+desperately,B2,adverb
+efficiently,B2,adverb
+emotionally,B2,adverb
+firmly,B2,adverb
+freely,B2,adverb
+genuinely,B2,adverb
+literally,B2,adverb
+openly,B2,adverb
+precisely,B2,adverb
+primarily,B2,adverb
+reasonably,B2,adverb
+roughly,B2,adverb
+somehow,B2,adverb
+steadily,B2,adverb
+strictly,B2,adverb
+thoroughly,B2,adverb
+voluntarily,B2,adverb
+afterwards,B2,adverb
+annually,B2,adverb
+constantly,B2,adverb
+formerly,B2,adverb
+gradually,B2,adverb
+hopefully,B2,adverb
+inevitably,B2,adverb
+initially,B2,adverb
+instantly,B2,adverb
+lately,B2,adverb
+newly,B2,adverb
+nowadays,B2,adverb
+occasionally,B2,adverb
+permanently,B2,adverb
+rapidly,B2,adverb
+shortly,B2,adverb
+sometime,B2,adverb
+temporarily,B2,adverb
+ultimately,B2,adverb
+additionally,B2,adverb
+apparently,B2,adverb
+consequently,B2,adverb
+furthermore,B2,adverb
+likewise,B2,adverb
+moreover,B2,adverb
+nevertheless,B2,adverb
+otherwise,B2,adverb
+therefore,B2,adverb
+thus,B2,adverb
+downwards,B2,adverb
+elsewhere,B2,adverb
+onwards,B2,adverb
+upwards,B2,adverb
+abuse,C1,noun
+accusation,C1,noun
+accused,C1,noun
+allegation,C1,noun
+amendment,C1,noun
+assault,C1,noun
+bail,C1,noun
+breach,C1,noun
+charter,C1,noun
+compliance,C1,noun
+confession,C1,noun
+consent,C1,noun
+conviction,C1,noun
+copyright,C1,noun
+corruption,C1,noun
+custody,C1,noun
+deed,C1,noun
+detention,C1,noun
+disclosure,C1,noun
+discrimination,C1,noun
+dispute,C1,noun
+enforcement,C1,noun
+execution,C1,noun
+exploitation,C1,noun
+felony,C1,noun
+harassment,C1,noun
+incarceration,C1,noun
+indictment,C1,noun
+injustice,C1,noun
+intent,C1,noun
+jurisdiction,C1,noun
+lawsuit,C1,noun
+legislation,C1,noun
+liability,C1,noun
+patent,C1,noun
+petition,C1,noun
+plea,C1,noun
+precedent,C1,noun
+privilege,C1,noun
+proceeding,C1,noun
+prosecution,C1,noun
+rape,C1,noun
+settlement,C1,noun
+slavery,C1,noun
+testimony,C1,noun
+torture,C1,noun
+trademark,C1,noun
+verdict,C1,noun
+violation,C1,noun
+warrant,C1,noun
+wrongdoing,C1,noun
+alliance,C1,noun
+assembly,C1,noun
+asylum,C1,noun
+autonomy,C1,noun
+ballot,C1,noun
+bureaucracy,C1,noun
+cabinet,C1,noun
+chamber,C1,noun
+citizenship,C1,noun
+coalition,C1,noun
+consensus,C1,noun
+constitution,C1,noun
+coup,C1,noun
+declaration,C1,noun
+delegation,C1,noun
+embassy,C1,noun
+equality,C1,noun
+exile,C1,noun
+faction,C1,noun
+governance,C1,noun
+homeland,C1,noun
+ideology,C1,noun
+inequality,C1,noun
+legislature,C1,noun
+liberation,C1,noun
+liberty,C1,noun
+lobby,C1,noun
+mandate,C1,noun
+ministry,C1,noun
+nomination,C1,noun
+poll,C1,noun
+presidency,C1,noun
+province,C1,noun
+rally,C1,noun
+referendum,C1,noun
+reform,C1,noun
+regime,C1,noun
+reign,C1,noun
+representation,C1,noun
+republic,C1,noun
+sanction,C1,noun
+sovereignty,C1,noun
+summit,C1,noun
+treaty,C1,noun
+aggression,C1,noun
+assassination,C1,noun
+atrocity,C1,noun
+battlefield,C1,noun
+blast,C1,noun
+casualty,C1,noun
+clash,C1,noun
+combat,C1,noun
+confrontation,C1,noun
+deployment,C1,noun
+firearm,C1,noun
+fleet,C1,noun
+genocide,C1,noun
+guerrilla,C1,noun
+hostage,C1,noun
+massacre,C1,noun
+militia,C1,noun
+missile,C1,noun
+patrol,C1,noun
+raid,C1,noun
+rebellion,C1,noun
+resistance,C1,noun
+retreat,C1,noun
+riot,C1,noun
+squad,C1,noun
+surveillance,C1,noun
+tactic,C1,noun
+warfare,C1,noun
+to advocate,C1,verb
+to alert,C1,verb
+to allege,C1,verb
+to applaud,C1,verb
+to articulate,C1,verb
+to assert,C1,verb
+to circulate,C1,verb
+to congratulate,C1,verb
+to correspond,C1,verb
+to denounce,C1,verb
+to depict,C1,verb
+to disclose,C1,verb
+to dub,C1,verb
+to echo,C1,verb
+to endorse,C1,verb
+to evoke,C1,verb
+to exaggerate,C1,verb
+to hail,C1,verb
+to inquire,C1,verb
+to insult,C1,verb
+to invoke,C1,verb
+to leak,C1,verb
+to notify,C1,verb
+to portray,C1,verb
+to preach,C1,verb
+to proclaim,C1,verb
+to reassure,C1,verb
+to recount,C1,verb
+to testify,C1,verb
+to vow,C1,verb
+to abolish,C1,verb
+to arm,C1,verb
+to assault,C1,verb
+to betray,C1,verb
+to bind,C1,verb
+to blast,C1,verb
+to breach,C1,verb
+to combat,C1,verb
+to compel,C1,verb
+to concede,C1,verb
+to condemn,C1,verb
+to confine,C1,verb
+to confront,C1,verb
+to conquer,C1,verb
+to convict,C1,verb
+to counter,C1,verb
+to crush,C1,verb
+to defy,C1,verb
+to deploy,C1,verb
+to detain,C1,verb
+to dictate,C1,verb
+to disrupt,C1,verb
+to enforce,C1,verb
+to imprison,C1,verb
+to incarcerate,C1,verb
+to raid,C1,verb
+to rape,C1,verb
+to seize,C1,verb
+to slash,C1,verb
+to smash,C1,verb
+to stab,C1,verb
+to suppress,C1,verb
+to surrender,C1,verb
+to torture,C1,verb
+to undermine,C1,verb
+to violate,C1,verb
+to whip,C1,verb
+to aspire,C1,verb
+to await,C1,verb
+to conceal,C1,verb
+to conceive,C1,verb
+to contemplate,C1,verb
+to contend,C1,verb
+to deem,C1,verb
+to diagnose,C1,verb
+to differentiate,C1,verb
+to dispute,C1,verb
+to disregard,C1,verb
+to embody,C1,verb
+to foresee,C1,verb
+to grasp,C1,verb
+to haunt,C1,verb
+to inspect,C1,verb
+to obsess,C1,verb
+to overlook,C1,verb
+to presume,C1,verb
+to probe,C1,verb
+to breed,C1,verb
+to carve,C1,verb
+to compile,C1,verb
+to constitute,C1,verb
+to craft,C1,verb
+to cultivate,C1,verb
+to devise,C1,verb
+to embed,C1,verb
+to enact,C1,verb
+to encompass,C1,verb
+to erect,C1,verb
+to forge,C1,verb
+to formulate,C1,verb
+to foster,C1,verb
+to harvest,C1,verb
+to initiate,C1,verb
+to mobilise,C1,verb
+to originate,C1,verb
+to reproduce,C1,verb
+to simulate,C1,verb
+absurd,C1,adjective
+appealing,C1,adjective
+bizarre,C1,adjective
+costly,C1,adjective
+delicate,C1,adjective
+desirable,C1,adjective
+distinctive,C1,adjective
+divine,C1,adjective
+dumb,C1,adjective
+exceptional,C1,adjective
+favourable,C1,adjective
+fierce,C1,adjective
+fragile,C1,adjective
+frustrating,C1,adjective
+glorious,C1,adjective
+grave,C1,adjective
+gross,C1,adjective
+harsh,C1,adjective
+hostile,C1,adjective
+inadequate,C1,adjective
+intriguing,C1,adjective
+magical,C1,adjective
+moderate,C1,adjective
+peculiar,C1,adjective
+prestigious,C1,adjective
+problematic,C1,adjective
+productive,C1,adjective
+profitable,C1,adjective
+straightforward,C1,adjective
+superb,C1,adjective
+terrific,C1,adjective
+thoughtful,C1,adjective
+thrilled,C1,adjective
+transparent,C1,adjective
+vicious,C1,adjective
+worthwhile,C1,adjective
+worthy,C1,adjective
+accountable,C1,adjective
+applicable,C1,adjective
+arbitrary,C1,adjective
+authentic,C1,adjective
+comparable,C1,adjective
+compelling,C1,adjective
+credible,C1,adjective
+definitive,C1,adjective
+eligible,C1,adjective
+explicit,C1,adjective
+fraudulent,C1,adjective
+inappropriate,C1,adjective
+inclined,C1,adjective
+inherent,C1,adjective
+insufficient,C1,adjective
+irrelevant,C1,adjective
+legitimate,C1,adjective
+liable,C1,adjective
+misleading,C1,adjective
+plausible,C1,adjective
+preliminary,C1,adjective
+rational,C1,adjective
+regulatory,C1,adjective
+symbolic,C1,adjective
+underlying,C1,adjective
+vague,C1,adjective
+verbal,C1,adjective
+viable,C1,adjective
+beloved,C1,adjective
+brutal,C1,adjective
+cautious,C1,adjective
+competent,C1,adjective
+content,C1,adjective
+cooperative,C1,adjective
+corrupt,C1,adjective
+crude,C1,adjective
+cynical,C1,adjective
+damaging,C1,adjective
+decisive,C1,adjective
+dedicated,C1,adjective
+defensive,C1,adjective
+destructive,C1,adjective
+engaging,C1,adjective
+humble,C1,adjective
+infamous,C1,adjective
+influential,C1,adjective
+instrumental,C1,adjective
+just,C1,adjective
+legendary,C1,adjective
+naive,C1,adjective
+noble,C1,adjective
+notorious,C1,adjective
+passive,C1,adjective
+persistent,C1,adjective
+protective,C1,adjective
+reluctant,C1,adjective
+renowned,C1,adjective
+selective,C1,adjective
+suspicious,C1,adjective
+accordingly,C1,adverb
+allegedly,C1,adverb
+consciously,C1,adverb
+continually,C1,adverb
+correspondingly,C1,adverb
+exclusively,C1,adverb
+explicitly,C1,adverb
+forth,C1,adverb
+frankly,C1,adverb
+halfway,C1,adverb
+hence,C1,adverb
+ironically,C1,adverb
+merely,C1,adverb
+namely,C1,adverb
+nonetheless,C1,adverb
+notably,C1,adverb
+overly,C1,adverb
+partially,C1,adverb
+predominantly,C1,adverb
+presently,C1,adverb
+presumably,C1,adverb
+readily,C1,adverb
+regardless,C1,adverb
+reportedly,C1,adverb
+respectively,C1,adverb
+secondly,C1,adverb
+seemingly,C1,adverb
+seldom,C1,adverb
+simultaneously,C1,adverb
+solely,C1,adverb
+subsequently,C1,adverb
+substantially,C1,adverb
+supposedly,C1,adverb
+thankfully,C1,adverb
+thereafter,C1,adverb
+thereby,C1,adverb
+undoubtedly,C1,adverb
+utterly,C1,adverb
+whatsoever,C1,adverb
+wholly,C1,adverb
+accomplice,C2,noun
+adherent,C2,noun
+adversary,C2,noun
+apostle,C2,noun
+arbiter,C2,noun
+artisan,C2,noun
+autocrat,C2,noun
+bellwether,C2,noun
+benefactor,C2,noun
+charlatan,C2,noun
+compatriot,C2,noun
+connoisseur,C2,noun
+culprit,C2,noun
+curmudgeon,C2,noun
+demagogue,C2,noun
+disciple,C2,noun
+dissident,C2,noun
+emissary,C2,noun
+envoy,C2,noun
+epicure,C2,noun
+expatriate,C2,noun
+exponent,C2,noun
+figurehead,C2,noun
+forerunner,C2,noun
+freshman,C2,noun
+henchman,C2,noun
+iconoclast,C2,noun
+ideologue,C2,noun
+incumbent,C2,noun
+journeyman,C2,noun
+jurist,C2,noun
+laggard,C2,noun
+laureate,C2,noun
+liaison,C2,noun
+linguist,C2,noun
+litigant,C2,noun
+lout,C2,noun
+luminary,C2,noun
+maestro,C2,noun
+magnate,C2,noun
+malcontent,C2,noun
+marauder,C2,noun
+matriarch,C2,noun
+maverick,C2,noun
+mediator,C2,noun
+mercenary,C2,noun
+messiah,C2,noun
+minion,C2,noun
+misanthrope,C2,noun
+mogul,C2,noun
+namesake,C2,noun
+nemesis,C2,noun
+neophyte,C2,noun
+nonentity,C2,noun
+novice,C2,noun
+oaf,C2,noun
+oracle,C2,noun
+orator,C2,noun
+pallbearer,C2,noun
+paragon,C2,noun
+pariah,C2,noun
+pedant,C2,noun
+perjurer,C2,noun
+perpetrator,C2,noun
+philanthropist,C2,noun
+philistine,C2,noun
+plaintiff,C2,noun
+playwright,C2,noun
+polyglot,C2,noun
+pragmatist,C2,noun
+pretender,C2,noun
+prodigy,C2,noun
+propagandist,C2,noun
+proponent,C2,noun
+proprietor,C2,noun
+protagonist,C2,noun
+protégé,C2,noun
+pundit,C2,noun
+purist,C2,noun
+purveyor,C2,noun
+quack,C2,noun
+rabble,C2,noun
+rascal,C2,noun
+recluse,C2,noun
+renegade,C2,noun
+ringleader,C2,noun
+rogue,C2,noun
+saboteur,C2,noun
+sage,C2,noun
+satirist,C2,noun
+savant,C2,noun
+scapegoat,C2,noun
+scion,C2,noun
+scoundrel,C2,noun
+seer,C2,noun
+simpleton,C2,noun
+solicitor,C2,noun
+sophomore,C2,noun
+sovereign,C2,noun
+speculator,C2,noun
+spinster,C2,noun
+stalwart,C2,noun
+steward,C2,noun
+stickler,C2,noun
+stowaway,C2,noun
+strategist,C2,noun
+suffragette,C2,noun
+supremacist,C2,noun
+surrogate,C2,noun
+sycophant,C2,noun
+tactician,C2,noun
+taskmaster,C2,noun
+theologian,C2,noun
+tipster,C2,noun
+titan,C2,noun
+tradesman,C2,noun
+trafficker,C2,noun
+trailblazer,C2,noun
+trickster,C2,noun
+turncoat,C2,noun
+tycoon,C2,noun
+tyrant,C2,noun
+umpire,C2,noun
+underdog,C2,noun
+underling,C2,noun
+understudy,C2,noun
+undertaker,C2,noun
+underwriter,C2,noun
+usher,C2,noun
+vagrant,C2,noun
+vandal,C2,noun
+victor,C2,noun
+vigilante,C2,noun
+villain,C2,noun
+virtuoso,C2,noun
+visionary,C2,noun
+voyeur,C2,noun
+warden,C2,noun
+warlord,C2,noun
+watchdog,C2,noun
+whistleblower,C2,noun
+wrongdoer,C2,noun
+xenophobe,C2,noun
+yokel,C2,noun
+youngster,C2,noun
+zealot,C2,noun
+to abhor,C2,verb
+to admonish,C2,verb
+to berate,C2,verb
+to castigate,C2,verb
+to censure,C2,verb
+to chastise,C2,verb
+to chide,C2,verb
+to decry,C2,verb
+to denigrate,C2,verb
+to deplore,C2,verb
+to deride,C2,verb
+to desecrate,C2,verb
+to disdain,C2,verb
+to disparage,C2,verb
+to excoriate,C2,verb
+to lambaste,C2,verb
+to malign,C2,verb
+to rebuke,C2,verb
+to reprimand,C2,verb
+to reproach,C2,verb
+to scorn,C2,verb
+to slander,C2,verb
+to spurn,C2,verb
+to upbraid,C2,verb
+to vilify,C2,verb
+to vituperate,C2,verb
+to abate,C2,verb
+to alleviate,C2,verb
+to ameliorate,C2,verb
+to appease,C2,verb
+to assuage,C2,verb
+to curtail,C2,verb
+to debilitate,C2,verb
+to decimate,C2,verb
+to deflate,C2,verb
+to deplete,C2,verb
+to dissipate,C2,verb
+to dwindle,C2,verb
+to enervate,C2,verb
+to expunge,C2,verb
+to mitigate,C2,verb
+to mollify,C2,verb
+to obliterate,C2,verb
+to obviate,C2,verb
+to pacify,C2,verb
+to palliate,C2,verb
+to pamper,C2,verb
+to placate,C2,verb
+to truncate,C2,verb
+to wane,C2,verb
+to abdicate,C2,verb
+to abjure,C2,verb
+to abrogate,C2,verb
+to abscond,C2,verb
+to absolve,C2,verb
+to abstain,C2,verb
+to accede,C2,verb
+to accredit,C2,verb
+to acquiesce,C2,verb
+to acquit,C2,verb
+to atone,C2,verb
+to confiscate,C2,verb
+to convene,C2,verb
+to corroborate,C2,verb
+to exonerate,C2,verb
+to inaugurate,C2,verb
+to indemnify,C2,verb
+to levy,C2,verb
+to proscribe,C2,verb
+to ratify,C2,verb
+to reconcile,C2,verb
+to redeem,C2,verb
+to relinquish,C2,verb
+to remit,C2,verb
+to renege,C2,verb
+to renounce,C2,verb
+to repeal,C2,verb
+to rescind,C2,verb
+to revoke,C2,verb
+to stipulate,C2,verb
+to vindicate,C2,verb
+to allude,C2,verb
+to ascertain,C2,verb
+to belie,C2,verb
+to beseech,C2,verb
+to construe,C2,verb
+to debunk,C2,verb
+to discern,C2,verb
+to elucidate,C2,verb
+to epitomise,C2,verb
+to err,C2,verb
+to espouse,C2,verb
+to exemplify,C2,verb
+to fathom,C2,verb
+to heed,C2,verb
+to ponder,C2,verb
+to postulate,C2,verb
+to refute,C2,verb
+to ruminate,C2,verb
+to scrutinise,C2,verb
+to substantiate,C2,verb
+to surmise,C2,verb
+to validate,C2,verb
+acclaimed,C2,adjective
+adroit,C2,adjective
+affable,C2,adjective
+altruistic,C2,adjective
+amenable,C2,adjective
+assiduous,C2,adjective
+astute,C2,adjective
+auspicious,C2,adjective
+benevolent,C2,adjective
+cordial,C2,adjective
+debonair,C2,adjective
+decorous,C2,adjective
+dexterous,C2,adjective
+dogged,C2,adjective
+ebullient,C2,adjective
+eloquent,C2,adjective
+erudite,C2,adjective
+fortuitous,C2,adjective
+genial,C2,adjective
+gregarious,C2,adjective
+impeccable,C2,adjective
+indomitable,C2,adjective
+industrious,C2,adjective
+ingenious,C2,adjective
+ingenuous,C2,adjective
+judicious,C2,adjective
+laudable,C2,adjective
+lucid,C2,adjective
+magnanimous,C2,adjective
+meticulous,C2,adjective
+munificent,C2,adjective
+painstaking,C2,adjective
+perspicacious,C2,adjective
+philanthropic,C2,adjective
+pious,C2,adjective
+placid,C2,adjective
+precocious,C2,adjective
+preeminent,C2,adjective
+prudent,C2,adjective
+punctilious,C2,adjective
+quintessential,C2,adjective
+resilient,C2,adjective
+resolute,C2,adjective
+reverent,C2,adjective
+reverential,C2,adjective
+rigorous,C2,adjective
+sacrosanct,C2,adjective
+sagacious,C2,adjective
+sanguine,C2,adjective
+scrupulous,C2,adjective
+sedulous,C2,adjective
+solemn,C2,adjective
+solicitous,C2,adjective
+staunch,C2,adjective
+tenacious,C2,adjective
+tractable,C2,adjective
+tranquil,C2,adjective
+undaunted,C2,adjective
+unpretentious,C2,adjective
+unremitting,C2,adjective
+urbane,C2,adjective
+venerable,C2,adjective
+vivacious,C2,adjective
+zealous,C2,adjective
+abiding,C2,adjective
+adamant,C2,adjective
+ambivalent,C2,adjective
+apathetic,C2,adjective
+apprehensive,C2,adjective
+austere,C2,adjective
+besotted,C2,adjective
+bewitching,C2,adjective
+circumspect,C2,adjective
+cloistered,C2,adjective
+convivial,C2,adjective
+coquettish,C2,adjective
+daunting,C2,adjective
+devoid,C2,adjective
+disinterested,C2,adjective
+dispassionate,C2,adjective
+effusive,C2,adjective
+elated,C2,adjective
+enigmatic,C2,adjective
+enticing,C2,adjective
+equivocal,C2,adjective
+erotic,C2,adjective
+erstwhile,C2,adjective
+exacting,C2,adjective
+exuberant,C2,adjective
+fervent,C2,adjective
+fervid,C2,adjective
+formidable,C2,adjective
+frugal,C2,adjective
+idiosyncratic,C2,adjective
+idyllic,C2,adjective
+impartial,C2,adjective
+impassive,C2,adjective
+impertinent,C2,adjective
+imperturbable,C2,adjective
+impervious,C2,adjective
+impetuous,C2,adjective
+impromptu,C2,adjective
+incisive,C2,adjective
+ineffable,C2,adjective
+innocuous,C2,adjective
+intrepid,C2,adjective
+intrusive,C2,adjective
+irreproachable,C2,adjective
+lenient,C2,adjective
+level-headed,C2,adjective
+malleable,C2,adjective
+mutable,C2,adjective
+penitent,C2,adjective
+pensive,C2,adjective
+phlegmatic,C2,adjective
+quiescent,C2,adjective
+reclusive,C2,adjective
+reticent,C2,adjective
+singular,C2,adjective
+solitary,C2,adjective
+stoic,C2,adjective
+stolid,C2,adjective
+taciturn,C2,adjective
+tentative,C2,adjective
+vociferous,C2,adjective
+whimsical,C2,adjective
+wistful,C2,adjective
+arguably,C2,adverb
+diligently,C2,adverb
+gingerly,C2,adverb
+henceforth,C2,adverb
+hitherto,C2,adverb
+immeasurably,C2,adverb
+imperceptibly,C2,adverb
+inter alia,C2,adverb
+intermittently,C2,adverb
+patently,C2,adverb
+resolutely,C2,adverb
+vehemently,C2,adverb
+verbatim,C2,adverb
+whereby,C2,adverb
