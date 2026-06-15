@@ -1,7 +1,7 @@
 # English CEFR Level Rewriter
 
 An AI skill that rewrites English text to match a target CEFR proficiency level (A1–C2).  
-Vocabulary data sourced from the [ESL Lounge Word Bank](https://www.esl-lounge.com/student/word-bank.php). Grammar profiles based on the Common European Framework of Reference for Languages.
+Vocabulary data: [CEFR-J Vocabulary Profile](https://github.com/openlanguageprofiles/olp-en-cefrj) (Yukio Tono, TUFS) + [Octanove Vocabulary Profile C1/C2](https://github.com/openlanguageprofiles/olp-en-cefrj), CC BY-SA 4.0. Grammar profiles based on the Common European Framework of Reference for Languages.
 
 ## What it does
 
@@ -105,10 +105,10 @@ python3 skills/english-cefr-level-rewriter/scripts/validate_cefr_readability.py 
 
 Both scripts exit `0` (pass) / `1` (violations found), so they work in CI pipelines.
 
-To regenerate the vocabulary CSV from ESL Lounge:
+To regenerate the vocabulary CSV from the upstream open datasets:
 
 ```bash
-python3 skills/english-cefr-level-rewriter/scripts/scrape_esl_lounge.py
+python3 skills/english-cefr-level-rewriter/scripts/build_cefr_vocab.py
 ```
 
 ---
@@ -129,13 +129,13 @@ english-cefr-level-rewriter/
         ├── SKILL.md                        # Skill definition
         ├── resources/
         │   ├── vocabulary/
-        │   │   ├── cefr_vocabulary.csv     # ESL Lounge word list (word, cefr_level, pos)
+        │   │   ├── cefr_vocabulary.csv     # CEFR-J + Octanove word list (word, cefr_level, pos)
         │   │   ├── cefr_vocabulary.sample.csv
         │   │   └── README.md
         │   └── grammar/
         │       └── A1.md … C2.md           # Grammar profiles per level
         ├── scripts/
-        │   ├── scrape_esl_lounge.py        # Regenerate vocabulary CSV
+        │   ├── build_cefr_vocab.py         # Regenerate vocabulary CSV from upstream datasets
         │   ├── validate_cefr_vocab.py      # Vocabulary compliance checker
         │   └── validate_cefr_readability.py # Grammar/readability checker
         ├── examples/
@@ -159,5 +159,6 @@ english-cefr-level-rewriter/
 
 ## License
 
-MIT  
-Vocabulary data sourced from [ESL Lounge](https://www.esl-lounge.com) for educational use.
+MIT
+
+**Vocabulary data** is derived from [CEFR-J Vocabulary Profile 1.5](https://github.com/openlanguageprofiles/olp-en-cefrj) (Yukio Tono, Tokyo University of Foreign Studies) and [Octanove Vocabulary Profile C1/C2 1.0](https://github.com/openlanguageprofiles/olp-en-cefrj) (Octanove Labs), both licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). If you distribute or adapt this project, you must credit the authors and release any derivative vocabulary data under the same license.
